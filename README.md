@@ -1,16 +1,52 @@
-# React + Vite
+A modern, responsive portfolio website built with React and Tailwind CSS. Showcasing my skills, projects, certifications, and professional experience as a Frontend Developer.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## ✨ Live Demo
 
-Currently, two official plugins are available:
+🔗 **Live Site:** [https://ayeshamasood.netlify.app]
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+### 📱 **Fully Responsive**
+- Mobile-first design approach
+- Seamless experience across all devices
+- Optimized for desktop, tablet, and mobile
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 🎨 **Modern UI/UX**
+- Glassmorphism effects
+- Smooth animations with FadeIn
+- Animated gradients and floating particles
+- Professional color scheme with neon accents
 
-## Expanding the ESLint configuration
+### 📄 **Sections**
+- **Hero Section** - Introduction with animated background
+- **About** - Personal bio and statistics
+- **Skills** - Technical skills with proficiency bars
+- **Services** - Services offered with icons
+- **Projects** - Project showcase with filtering
+- **Certificates** - Professional certifications with lightbox
+- **Testimonials** - Client testimonials carousel
+- **Contact** - Contact form with validation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🔧 **Technical Features**
+- React Hooks (useState, useRef)
+- Custom animations with FadeIn
+- Smooth scrolling navigation
+- Form validation with error handling
+- Lightbox modal for certificates
+- Carousel for testimonials
+- Responsive grid layouts
+
+### 🛠️ **Integrations**
+- Email integration (Netlify Forms / Vercel API)
+- Social media links
+- External project links
+- Downloadable resume
+
+## 💻 Tech Stack
+
+### **Frontend**
+- [React 18](https://reactjs.org/) - UI Library
+- [Tailwind CSS](https://tailwindcss.com/) - Styling
+- [Lucide React](https://lucide.dev/) - Icons
+- [React Icons](https://react-icons.github.io/react-icons/) - Social Icons
+- [Framer Motion](https://www.framer.com/motion/) - Animations (optional)
