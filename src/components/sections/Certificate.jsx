@@ -23,17 +23,17 @@ const Certificate = () => {
         },
         {
             id: 3,
-            title: "Canva Design",
-            issuer: "Simplilearn",
-            date: "February 2026",
-            image: "/Canva Certificate.jpg",
-        },
-        {
-            id: 4,
             title: "AI BOOT CAMP",
             issuer: "KICS UET",
             date: "July 2026",
             image: "/20.jpg",
+        },
+        {
+            id: 4,
+            title: "Canva Design",
+            issuer: "Simplilearn",
+            date: "February 2026",
+            image: "/Canva Certificate.jpg",
         },
         {
             id: 5,
