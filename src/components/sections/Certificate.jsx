@@ -30,10 +30,10 @@ const Certificate = () => {
         },
         {
             id: 4,
-            title: "CodeAlpha",
-            issuer: "CodeAlpha",
-            date: "March 2026",
-            image: "/codealpha.jpg",
+            title: "AI BOOT CAMP",
+            issuer: "KICS UET",
+            date: "July 2026",
+            image: "/20.jpg",
         },
         {
             id: 5,
@@ -41,6 +41,13 @@ const Certificate = () => {
             issuer: "OneRoadMap",
             date: "March 2026",
             image: "/Frontend Development.jpg",
+        },
+        {
+            id: 6,
+            title: "CodeAlpha",
+            issuer: "CodeAlpha",
+            date: "March 2026",
+            image: "/codealpha.jpg",
         }
     ];
 
