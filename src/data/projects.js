@@ -53,6 +53,17 @@ export const projects=[
         metrices: 'Helping founders build authority',
         demoUrl: "https://mominashiekhportfolio.netlify.app/",
         githubUrl:"https://github.com/ayeshamasood783-droid/Client-Portfolio.git"
+    },
+    {
+        id:6,
+        title: 'Client-Portfolio',
+        description : "I craft digital presence frameworks that feel sharp, intentional, and 100% you.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMEY1OVvsYndmE9BfJcX29OpLaE_zOmJsG-5P9arzZB03Mmsdqr1SJePyT&s=10",
+        category:'Frontend Developement',
+        technologies: ['HTML','CSS','JavaScript'],
+        metrices: 'Helping Creators build authority',
+        demoUrl: "https://hashirahmad.netlify.app/",
+        githubUrl:"https://github.com/ayeshamasood783-droid/Hashir-Portfolio"
     }
 ];
 
